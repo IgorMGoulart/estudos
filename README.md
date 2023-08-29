@@ -1,4 +1,4 @@
-# estudos
+# Estudos
 
 [Data Science & Machine Learning Studies]
 
