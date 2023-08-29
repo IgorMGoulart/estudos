@@ -8,6 +8,7 @@
 - Adicionei um novo notebook explorando técnicas de pré-processamento de dados, incluindo limpeza e transformação.
 - Incorporado projetos de Machine Learning utilizando um conjunto de dados do Kaggle e outras fontes
 
+As Tecnicas de ML estão separadas por branch.
 
 Grato por qualquer feedback ou sugestão de melhoria! Vamos juntos rumo à maestria em Data Science e Machine Learning. 🚀🔬🤖
 
